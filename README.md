@@ -1,28 +1,65 @@
-# Hi, I'm Angel Beltran!👋 
-## 🌎 About Me
-- 🎒 I am currently a student at Houston Christian University Majoring in computer science. This summer of 2024, I am a Data Engineer Intern at Sysco working with the Data Plaform Engineers on a Capstone Project. Last summer of 2023, I interned at Jebbit as a Software Engineer where I worked on the Platform team enhancing my skills in software development and platform management. From the years 2022-2024, I was in The Data Mine National Network at Purdue Univerisy where I got the chance to grow my skills in data analitics and data science.
-- 👀 I love to build Software Applications of all types and can work the full stack. I love working with data and I find myself having the most fun when I am building an application that is data heavy.
-- 🌱 Outside of tech I love to be active. I am into playing soccer, running, and mountain biking. I love nature and working to get into solo camping around the national parks in the US.
-- 📕 I love to read books about personal development.
+# Hi, I'm Angel Beltran 👋  
 
-## Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+## 🌎 About Me  
+🎓 Computer Science student at **Houston Christian University** (Graduating May 2025).  
+💡 Currently a **Data Engineer Intern @ Sysco** (Summer 2024).  
+💻 Former **Software Engineer Intern @ Jebbit** (Summer 2023).  
+📊 Alumni of **The Data Mine National Network @ Purdue University** (2022–2024).  
 
-## Frameworks
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+I love building **full-stack applications** and working with **data-intensive systems**.  
+I thrive when bridging **data engineering** and **software development**—whether that’s designing ETL pipelines, optimizing SQL, or creating interactive dashboards.  
 
-## Database
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+Outside of tech, you’ll find me:  
+⚽ Playing soccer | 🏃 Running | 🚵 Mountain biking | 🏕️ Exploring national parks | 📚 Reading personal development books  
 
-## Devops
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+---
 
-## Software
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+## 🛠️ Skills & Tools  
 
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
+### ⚙️ Frameworks & Libraries  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
+![Rails](https://img.shields.io/badge/-Rails-D30001?style=flat&logo=ruby-on-rails&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Ember](https://img.shields.io/badge/-Ember-E04E39?style=flat&logo=ember.js&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 
-<!---
-abeltran09/abeltran09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+
+### ☁️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+
+---
+
+## 🚀 Featured Projects  
+🔹 [**Pokemon Data Engineering Project**](https://github.com/abeltran09/Pokemon-DE-Project) – End-to-end ETL pipeline with AWS, dbt, and Medallion Architecture.  
+🔹 [**AAA-Health**](#) – Capstone project integrating IoT health sensors with FastAPI + React Native. *(link once repo is public)*  
+🔹 [**Sites by Beltran**](#) – Web design & development business portfolio. *(link once site is live)*  
+
+---
+
+## 📊 GitHub Stats  
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeltran09&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeltran09&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me  
+🌐 [Portfolio](#) *(add once built)*  
+💼 [LinkedIn](https://www.linkedin.com/in/angel-beltran09/)  
+📧 [Email](mailto:abeltran@example.com)  
+
+---
